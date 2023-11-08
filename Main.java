@@ -1,1 +1,7 @@
-Java
+/**
+ * Main
+ */
+public class Main {
+
+     
+}
